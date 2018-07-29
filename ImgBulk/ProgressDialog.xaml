@@ -1,0 +1,19 @@
+﻿<Window x:Class="ImgBulk.ProgressDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:converters="clr-namespace:ImgBulk.Converters"
+        Title="ProgressDialog" Height="417.215" Width="515.391" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Icon="Images/Doom.png">
+    <Window.Resources>
+        <converters:BoolToInvertedBoolConverter x:Key="BoolToInvertedBoolConverter"/>
+        <converters:FalseToVisibleConverter x:Key="FalseToVisibleConverter"/>
+    </Window.Resources>
+    <Grid>
+        <ProgressBar VerticalAlignment="Bottom" Margin="10,0,10,46" Height="35" Maximum="{Binding ProgressCount}" Value="{Binding Progress}"/>
+        <Button Content="Cancel" Command="{Binding CancelCommand}" IsEnabled="{Binding CanCancel}"  HorizontalAlignment="Left" Height="31" Margin="10,0,0,10" VerticalAlignment="Bottom" Width="116"/>
+        <Button Content="Close" IsEnabled="{Binding IsRunning, Converter={StaticResource BoolToInvertedBoolConverter}}" HorizontalAlignment="Right" Height="31" Margin="0,0,10,10" VerticalAlignment="Bottom" Width="116" RenderTransformOrigin="1.61,0.515" Click="Button_Click"/>
+        <ScrollViewer x:Name="StatusScroll" Margin="10,10,10,83" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+            <TextBlock x:Name="StatusBox"/>
+        </ScrollViewer>
+        <Button Content="Open Folder" Command="{Binding OpenFolderCommand}" Visibility="{Binding IsRunning, Converter={StaticResource FalseToVisibleConverter}}" HorizontalAlignment="Right" Height="31" Margin="0,0,131,10" VerticalAlignment="Bottom" Width="116"/>
+    </Grid>
+</Window>

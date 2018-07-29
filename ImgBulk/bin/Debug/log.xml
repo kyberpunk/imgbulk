@@ -1,0 +1,1223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LogRows>
+  <LogRow>
+    <Time>2016-04-20T19:06:57.805398+02:00</Time>
+    <Info>Info</Info>
+    <Message>Converting 4 images started</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:06:57.805398+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20160420_143913.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:06:57.8754139+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:06:57.8754139+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:06:57.9924201+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:06:58.0034224+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:06:58.0034224+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20160420_151549.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:06:58.0854342+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:06:58.0854342+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:06:58.2034433+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:06:58.2154446+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:06:58.2154446+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20160420_143840.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:06:58.2944577+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:06:58.2944577+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:06:58.4104667+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:06:58.4204689+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:06:58.4204689+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20160420_143900.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:06:58.513482+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:06:58.513482+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:06:58.6704987+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:06:58.6845004+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:06:58.6854991+02:00</Time>
+    <Info>Info</Info>
+    <Message>Converting images ended</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:06:58.6854991+02:00</Time>
+    <Info>Info</Info>
+    <Message>4 images succesfully converted</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:06:58.6854991+02:00</Time>
+    <Info>Info</Info>
+    <Message>0 images failed</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:08:15.9710481+02:00</Time>
+    <Info>Info</Info>
+    <Message>Converting 4 images started</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:08:15.9710481+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20160420_151549.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:08:16.0480562+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:08:16.0480562+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:08:16.1960742+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:08:16.2180777+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:08:16.2180777+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20160420_143840.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:08:16.2830877+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:08:16.2830877+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:08:16.4331026+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:08:16.4521042+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:08:16.4521042+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20160420_143900.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:08:16.5196063+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:08:16.5196063+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:08:16.666123+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:08:16.6851246+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:08:16.6851246+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20160420_143913.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:08:16.7491356+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:08:16.7491356+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:08:16.8961401+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:08:16.9161464+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:08:16.9161464+02:00</Time>
+    <Info>Info</Info>
+    <Message>Converting images ended</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:08:16.9161464+02:00</Time>
+    <Info>Info</Info>
+    <Message>4 images succesfully converted</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:08:16.9161464+02:00</Time>
+    <Info>Info</Info>
+    <Message>0 images failed</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:07.9247111+02:00</Time>
+    <Info>Info</Info>
+    <Message>Converting 4 images started</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:07.9247111+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20160420_151549.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:08.0220623+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:08.0220623+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:08.1780743+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:08.1990782+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:08.1990782+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20160420_143840.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:08.2680884+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:08.2680884+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:08.42611+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:08.4471171+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:08.4471171+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20160420_143900.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:08.5181153+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:08.5181153+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:08.6761238+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:08.6981253+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:08.6981253+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20160420_143913.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:08.7691359+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:08.7691359+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:08.9241956+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:08.9438934+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:08.9438934+02:00</Time>
+    <Info>Info</Info>
+    <Message>Converting images ended</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:08.9438934+02:00</Time>
+    <Info>Info</Info>
+    <Message>4 images succesfully converted</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:08.9438934+02:00</Time>
+    <Info>Info</Info>
+    <Message>0 images failed</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:41.6837951+02:00</Time>
+    <Info>Info</Info>
+    <Message>Converting 4 images started</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:41.6837951+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20160420_151549.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:41.7588127+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:41.7588127+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:41.8793238+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:41.8793238+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20160420_143840.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:41.9513196+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:41.9513196+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:42.0723418+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:42.0723418+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20160420_143900.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:42.1413467+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:42.1413467+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:42.2593674+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:42.2593674+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20160420_143913.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:42.3243763+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:42.3243763+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:42.4373805+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:42.4373805+02:00</Time>
+    <Info>Info</Info>
+    <Message>Converting images ended</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:42.4373805+02:00</Time>
+    <Info>Info</Info>
+    <Message>4 images succesfully converted</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T19:09:42.4373805+02:00</Time>
+    <Info>Info</Info>
+    <Message>0 images failed</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:49.8901759+02:00</Time>
+    <Info>Info</Info>
+    <Message>Converting 12 images started</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:49.8901759+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20151222_191030.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:49.9853464+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:49.9853464+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:50.1034419+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:50.186536+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:50.186536+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20151222_191034.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:50.2646217+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:50.2646217+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:50.3836896+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:50.4692042+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:50.4692042+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20151222_191036.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:50.5732115+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:50.5732115+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:50.6987792+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:50.7798481+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:50.7798481+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20151222_191049.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:50.8478497+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:50.8478497+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:50.9659281+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:51.043937+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:51.043937+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20151222_191153.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:51.1180235+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:51.1180235+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:51.2376217+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:51.3026313+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:51.3026313+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20151222_191200.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:51.3791697+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:51.3791697+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:51.5397412+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:51.6032963+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:51.6042963+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20151222_191309.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:51.6668014+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:51.6668014+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:51.781394+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:51.8464033+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:51.8464033+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20151222_191320.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:51.9094705+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:51.9094705+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:52.0319803+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:52.0995529+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:52.0995529+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20151222_191323.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:52.1830593+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:52.1830593+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:52.3016327+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:52.3716635+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:52.3716635+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20151222_191326.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:52.440166+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:52.440166+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:52.5791824+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:52.6571969+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:52.6571969+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20151222_191333.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:52.7301963+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:52.7301963+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:52.84777+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:52.9168378+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:52.9168378+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20151222_191337.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:52.9863436+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:52.9863436+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:53.1013497+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:53.1709071+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:53.1709071+02:00</Time>
+    <Info>Info</Info>
+    <Message>Converting images ended</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:53.1709071+02:00</Time>
+    <Info>Info</Info>
+    <Message>12 images succesfully converted</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2016-04-20T23:51:53.1709071+02:00</Time>
+    <Info>Info</Info>
+    <Message>0 images failed</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:25.3710599+02:00</Time>
+    <Info>Info</Info>
+    <Message>Converting 8 images started</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:25.3710599+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20180425_160459.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:25.4689853+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:25.4689853+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:25.6333282+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:25.6489513+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:25.6489513+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20180425_160508.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:25.7343126+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:25.7343126+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:25.8969217+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:25.9125491+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:25.9125491+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20180425_160512.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:26.0062976+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:26.0062976+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:26.2079721+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:26.2249722+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:26.2249722+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20180425_160522.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:26.3559723+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:26.3559723+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:26.586165+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:26.6017839+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:26.6017839+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20180425_160532.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:26.6955356+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:26.6955356+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:27.0080377+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:27.0236627+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:27.0236627+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20180425_160535.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:27.1851747+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:27.1851747+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:27.4666887+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:27.4688447+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:27.4688447+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20180425_160557.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:27.5938544+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:27.5938544+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:27.835511+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:27.8511419+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:27.8511419+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20180425_160609.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:27.9761368+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:27.9761368+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:28.2348941+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:28.2538972+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:28.2538972+02:00</Time>
+    <Info>Info</Info>
+    <Message>Converting images ended</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:28.2538972+02:00</Time>
+    <Info>Info</Info>
+    <Message>8 images succesfully converted</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:01:28.2538972+02:00</Time>
+    <Info>Info</Info>
+    <Message>0 images failed</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:10.2836205+02:00</Time>
+    <Info>Info</Info>
+    <Message>Converting 8 images started</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:10.2836205+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20180425_160459.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:10.3709989+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:10.3709989+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:10.6053697+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:10.6366213+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:10.6366213+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20180425_160508.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:10.7271404+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:10.7271404+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:10.9397141+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:10.9553376+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:10.9553376+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20180425_160512.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:11.0334595+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:11.0334595+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:11.2558335+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:11.2808322+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:11.2808322+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20180425_160522.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:11.34781+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:11.34781+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:11.5509316+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:11.5821811+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:11.5821811+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20180425_160532.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:11.675931+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:11.675931+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:11.8775719+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:11.8931869+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:11.8931869+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20180425_160535.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:11.9785131+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:11.9785131+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:12.2192178+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:12.2462216+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:12.2462216+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20180425_160557.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:12.3209851+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:12.3209851+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:12.5241127+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:12.5553562+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:12.5553562+02:00</Time>
+    <Info>Info</Info>
+    <Message>Loading image: 20180425_160609.jpg</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:12.633483+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image loaded</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:12.633483+02:00</Time>
+    <Info>Info</Info>
+    <Message>Resizing image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:12.8522228+02:00</Time>
+    <Info>Info</Info>
+    <Message>Saving image</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:12.8834797+02:00</Time>
+    <Info>Info</Info>
+    <Message>Image Saved</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:12.8834797+02:00</Time>
+    <Info>Info</Info>
+    <Message>Converting images ended</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:12.8834797+02:00</Time>
+    <Info>Info</Info>
+    <Message>8 images succesfully converted</Message>
+  </LogRow>
+  <LogRow>
+    <Time>2018-04-28T16:02:12.8834797+02:00</Time>
+    <Info>Info</Info>
+    <Message>0 images failed</Message>
+  </LogRow>
+</LogRows>
