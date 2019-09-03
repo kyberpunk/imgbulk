@@ -2,7 +2,7 @@
 
 The simple tool with well-arranged user interface for transforming image formats and resizing images in one batch. It is useful for example when you need to send oversized images in email or include them to web page. This application was created as school project.
 
-![User interface](/images/gui.png)
+<img src="/images/gui.png" width="600">
 
 ## Technology
 Application is written in C#. It is based on WPF framework and .NET 4.5. It does not use external dependencies.
